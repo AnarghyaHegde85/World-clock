@@ -1,0 +1,35 @@
+.background {
+  background-color: rgb(102, 176, 176);
+  background-image: linear-gradient(rgb(188, 226, 226), rgb(18, 175, 175));
+  height: 100vh;
+  width: 100vw;
+}
+.background-Clock {
+  width: 40%;
+  height: 40%;
+  border: 1px solid;
+  transform: translate(63%, 50%);
+  display: flex;
+  justify-content: center;
+  -o-border-image: linear-gradient(to right, rgb(203, 241, 243), rgb(67, 168, 177)) 1;
+     border-image: linear-gradient(to right, rgb(203, 241, 243), rgb(67, 168, 177)) 1;
+}
+.background-Clock-details {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 0.5rem;
+}
+.background-Clock-details-sub1, .background-Clock-details-sub2 {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+.background-Clock-details-sub1-content, .background-Clock-details-sub2-content {
+  font-size: 1rem;
+  background-color: rgb(169, 219, 219);
+  border: none;
+}
+.background-Clock-details-sub1-time, .background-Clock-details-sub2-time {
+  text-align: center;
+  font-size: 2.3rem;
+}/*# sourceMappingURL=clock.css.map */

@@ -1,0 +1,92 @@
+ [
+    {
+        "iso": "AS",
+        "name": "American Samoa",
+        "timezone": "Pacific/Pago_Pago",
+        "utc": "UTC +12:37"
+      },
+      {
+        "iso": "AR",
+        "name": "Argentina",
+        "timezone": "America/Argentina/Catamarca",
+        "utc": "UTC -04:23"
+      },
+      {
+        "iso": "AU",
+        "name": "Australia",
+        "timezone": "Australia/Sydney",
+        "utc": "UTC +10:04"
+      },
+      {
+        "iso": "BD",
+        "name": "Bangladesh",
+        "timezone": "Asia/Dhaka",
+        "utc": "UTC +06:01"
+      },
+      {
+        "iso": "BR",
+        "name": "Brazil",
+        "timezone": "America/Araguaina",
+        "utc": "UTC -03:12"
+      },
+      {
+        "iso": "CA",
+        "name": "Canada",
+        "timezone": "America/Halifax",
+        "utc": "UTC -04:14"
+      },
+      {
+        "iso": "IN",
+        "name": "India",
+        "timezone": "Asia/Kolkata",
+        "utc": "UTC +05:53"
+      },
+      {
+        "iso": "ID",
+        "name": "Indonesia",
+        "timezone": "Asia/Jayapura",
+        "utc": "UTC +09:22"
+      },
+      {
+        "iso": "SA",
+        "name": "Saudi Arabia",
+        "timezone": "Asia/Riyadh",
+        "utc": "UTC +03:06"
+      },
+      {
+        "iso": "SG",
+        "name": "Singapore",
+        "timezone": "Asia/Singapore",
+        "utc": "UTC +06:55"
+      },
+      {
+        "iso": "CH",
+        "name": "Switzerland",
+        "timezone": "Europe/Zurich",
+        "utc": "UTC +00:34"
+      },
+      {
+        "iso": "TH",
+        "name": "Thailand",
+        "timezone": "Asia/Bangkok",
+        "utc": "UTC +06:42"
+      },
+      {
+        "iso": "AE",
+        "name": "United Arab Emirates",
+        "timezone": "Asia/Dubai",
+        "utc": "UTC +03:41"
+      },
+      {
+        "iso": "US",
+        "name": "United States",
+        "timezone": "America/Anchorage",
+        "utc": "UTC +14:00"
+      },
+      {
+        "iso": "VE",
+        "name": "Venezuela, Bolivarian Republic of",
+        "timezone": "America/Caracas",
+        "utc": "UTC -04:27"
+      }
+]
